@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/tilia101/dev/mysite"/>
+		<item value="/Users/tilia101/dev"/>
+		<item value="/Users/tilia101/dev/firstsite"/>
+		<item value="/Users/tilia101/dev/firstsite/firstsite"/>
+		<item value="/Users/tilia101/dev/gameboard"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+</section>
