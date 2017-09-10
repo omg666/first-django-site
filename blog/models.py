@@ -9,7 +9,7 @@ class Post(models.Model):
 		default=timezone.now)
 	published_date=models.DateTimeField(
 		blank=True, null=True)
-	category=models.TextField(100)
+	category=models.CharField(max_length=100)
 
 	def publish(self):
 		self.published_date=timezone.now()
